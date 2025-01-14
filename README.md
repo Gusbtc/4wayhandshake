@@ -1,6 +1,7 @@
 # Leia
 
 Fiz esse texto apenas para cunho educacional e informativo, não me responsabilizo pelas atitudes dos leitores
+
 Também fiz esse texto letra por letra, então se for copiar deixa os créditos também s2
 
 # Pré-requisitos para fazer esse ataque:
