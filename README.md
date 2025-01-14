@@ -45,7 +45,7 @@ Então, a nossa função aqui é capturar essa comunicação, anotar esses valor
 # Vamos para a prática
 Primeiro de tudo nós precisamos colocar nossa placa no modo **monitor**
 
-Vamos fazer isso da maneira mais fácil que utilizando a ferramento airmon-ng:
+Vamos fazer isso da maneira mais fácil que é utilizando a ferramento airmon-ng:
 ```
 sudo airmon-ng start <interface que vamos usar>
 ```
