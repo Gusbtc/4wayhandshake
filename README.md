@@ -85,4 +85,4 @@ sudo aircrack-ng captura-01.cap -w <sua wordlist>
 
 E pronto! Ataque feito, qualquer dúvida só me chamar
 
-*Obs: não sou profissional na área wireless, e estou sujeito a cometer erros também. Caso eu tenha escrito alguma informação errada é só me avisa*
+*Obs: não sou profissional na área wireless, e estou sujeito a cometer erros também. Caso eu tenha escrito alguma informação errada é só me avisar*
