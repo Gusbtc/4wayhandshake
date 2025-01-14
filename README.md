@@ -7,7 +7,9 @@ Também fiz esse texto letra por letra, então se for copiar deixa os créditos 
 # Pré-requisitos para fazer esse ataque:
 
 Suíte de ferramentas do aircrack (https://www.aircrack-ng.org/)
+
 Uma rede alvo que use o padrão WPA (1 ou 2)
+
 Uma placa wifi que tenha suporte ao modo monitor
 
 
