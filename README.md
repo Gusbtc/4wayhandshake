@@ -66,9 +66,9 @@ Aqui nós vamos esperar algum client legítimo se conectar nessa rede para captu
 
 Vamos usar outra ferramenta a suíte do aircrack
 
-```
-Abrimos outro terminal e colocamos:
 
+Abrimos outro terminal e colocamos:
+```
 sudo aireplay-ng <nossa interface em modo monitor> --deauth 10 -a <BSSID anotado>
 ```
 
