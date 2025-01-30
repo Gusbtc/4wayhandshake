@@ -37,7 +37,7 @@ E assim ele manda para o roteador:
 
 ```
 SNonce: valoraleatorioaaa24245646
-MIC: senhajuntocomtudoadawdajdiaw242002920
+MIC: hashdasenhajuntocomtudoadawdajdiaw242002920
 ```
 
 Então, a nossa função aqui é capturar essa comunicação, anotar esses valores e pegar uma wordlist boa o suficiente para a ter a senha do nosso alvo kkkk
@@ -84,5 +84,3 @@ sudo aircrack-ng captura-01.cap -w <sua wordlist>
 > É aqui onde a ferramenta vai tentar refazer o pacote PTK e verificar se o MIC gerado vai bater com o que o client enviou para o AP
 
 E pronto! Ataque feito, qualquer dúvida só me chamar
-
-*Obs: não sou profissional na área wireless, e estou sujeito a cometer erros também. Caso eu tenha escrito alguma informação errada é só me avisar*
