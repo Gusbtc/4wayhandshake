@@ -16,6 +16,10 @@ Uma placa wifi que tenha suporte ao modo monitor
 # Como funciona esse ataque:
 
 Quando um dispositivo (Station ou client) vai se conectar a um roteador (Access Point ou AP) eles dois fazem uma comunicação chamada de **4 way handshake**, 4 "mensagens" que são trocadas entre esses dois onde o dispositivo vai provar para o roteador que ele tem a senha correta e o roteador vai fazer essa verificação
+<div align="center">
+  <img src="https://networklessons.com/wp-content/uploads/2023/12/wpa-4-way-handshake-workflow.png" height="500"/>
+</div>
+
 
 Entre essas quatro mensagens, as mais importantes para nós são a primeira e a segunda pois é utilizando o que vamos capturar nessa duas "mensagens" que nós vamos refazer os hashes até achar a senha correta
 
