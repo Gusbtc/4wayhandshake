@@ -1,4 +1,4 @@
-# Leia
+# Leia antes
 
 Fiz esse texto apenas para cunho educacional e informativo, não me responsabilizo pelas atitudes dos leitores
 
